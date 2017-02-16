@@ -1,0 +1,67 @@
+body{
+   padding:50px;
+   background-image: url(../images/gradient-wallpaper.jpg);
+   background-repeat: repeat-x;
+}
+
+.navbar-brand {
+  padding: 0px;
+}
+
+.navbar-brand>img {
+  height: 100%;
+  padding: 15px;
+  width: auto;
+}
+
+.jumbotron {
+  width: 110%;
+}
+
+#alert{
+  text-align: center;
+  width: 50%;
+}
+
+#create-account{
+  background-color: white;
+  border-radius: 8px;
+  padding: 20px;
+  width: 50%;
+}
+
+#menu-dd{
+  background-color:rgba(255,255,255,.8);
+}
+
+#login-dp{
+    min-width: 250px;
+    padding: 14px 14px 0;
+    overflow:hidden;
+    background-color:rgba(255,255,255,.8);
+}
+
+#login-dp .bottom{
+    background-color:rgba(255,255,255,.8);
+    border-top:1px solid #ddd;
+    clear:both;
+    padding:14px;
+}
+
+#login-dp .form-group {
+    margin-bottom: 10px;
+}
+
+#create-table{
+  background-color: white;
+  border-radius: 8px;
+  padding: 20px;
+  width: 50%;
+}
+
+#cart{
+  background-color: white;
+  border-radius: 8px;
+  padding: 20px;
+  width: 50%;
+}
